@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\bin\Debug\PRIII_prva_parcijala.exe.config
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\bin\Debug\PRIII_prva_parcijala.exe
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\bin\Debug\PRIII_prva_parcijala.pdb
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.frmStudenti.resources
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.Properties.Resources.resources
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.exe
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.pdb
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.frmNoviStudent.resources
+C:\Users\User\source\repos\PRIII_prva_parcijala\PRIII_prva_parcijala\obj\Debug\PRIII_prva_parcijala.frmDetaljiStudenta.resources
